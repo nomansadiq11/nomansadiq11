@@ -2,7 +2,7 @@
 
 let's connect
 
-[![LinkedIn](https://img.shields.io/badge/Button-Label-blue)](https://www.linkedin.com/in/nomancs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nomancs/)
 
 
 <!--
