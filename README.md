@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I am Noman 👋
+
+let's connect
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nomancs/)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
+
+
 
 <!--
 **nomansadiq11/nomansadiq11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
