@@ -2,10 +2,7 @@
 
 let's connect
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nomancs/)
-&nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
-
+[![LinkedIn](https://img.shields.io/badge/Button-Label-blue)](https://www.linkedin.com/in/nomancs/)
 
 
 <!--
