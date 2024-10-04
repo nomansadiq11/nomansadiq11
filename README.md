@@ -6,11 +6,9 @@ let's connect
 
 I began my career as a Software Engineer in 2010 and have accumulated 15 years of experience in the IT industry. My expertise lies in Linux, DevOps, Kubernetes, and cloud computing (AWS, Azure, GCP).
 
-### my skills are
+### Skills
 
-![Cloud Computing](https://img.shields.io/badge/Cloud%2FComputing-AWS%2FAzure%2FGoogle-blue?logo=icloud)
-![AWS](https://img.shields.io/badge/Skill-AWS-orange?logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Skill-Azure-blue?logo=microsoft-azure)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-AWS%2FAzure%2FGoogle-blue?logo=icloud)
 ![Kubernetes](https://img.shields.io/badge/Skill-Kubernetes-blueviolet?logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Skill-Docker-lightblue?logo=docker)
 ![CI/CD](https://img.shields.io/badge/Skill-CI%2FCD-brightgreen?logo=github-actions)
