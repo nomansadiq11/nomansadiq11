@@ -9,7 +9,7 @@ I began my career as a Software Engineer in 2010 and have accumulated 15 years o
 ### Skills
 
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-AWS%2FAzure%2FGoogle-blue?logo=icloud)
-![Custom Color](https://img.shields.io/badge/Skill-Kubernetes-#326CE5?logo=kubernetes)
+![Custom Color](https://img.shields.io/badge/Skill-Kubernetes-326CE5?logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Skill-Docker-lightblue?logo=docker)
 ![CI/CD](https://img.shields.io/badge/Skill-CI%2FCD-brightgreen?logo=github-actions)
 ![AWS Certified Solution Architect](https://img.shields.io/badge/Certification-AWS%20Certified%20Solution%20Architect-yellowgreen?logo=amazon-aws)
