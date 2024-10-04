@@ -4,7 +4,7 @@ let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nomancs/)
 
-I started my career in 2010 as a Software Engineer and have been working in IT for 15 years. My specialty is Linux, DevOps, Kubernetes, and cloud computing (AWS, Azure, GCP).
+I began my career as a Software Engineer in 2010 and have accumulated 15 years of experience in the IT industry. My expertise lies in Linux, DevOps, Kubernetes, and cloud computing (AWS, Azure, GCP).
 
 ### my skills are
 
