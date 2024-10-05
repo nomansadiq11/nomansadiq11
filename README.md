@@ -16,7 +16,7 @@ I began my career as a Software Engineer in 2010 and have accumulated 15 years o
 ### I can write Code
 
 ![Python](https://img.shields.io/badge/Code-python-3776AB?logo=python)
-![C#](https://img.shields.io/badge/Code-C#-512BD4?logo=dotnet)
+![C#](https://img.shields.io/badge/Code-CSharp-512BD4?logo=dotnet)
 
 ### Skills
 
