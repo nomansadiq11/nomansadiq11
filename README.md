@@ -6,9 +6,17 @@ let's connect
 
 I began my career as a Software Engineer in 2010 and have accumulated 15 years of experience in the IT industry. My expertise lies in Linux, DevOps, Kubernetes, and cloud computing (AWS, Azure, GCP).
 
-### Code
+### I am writing automation scripts
 
 ![Python](https://img.shields.io/badge/Code-python-3776AB?logo=python)
+![bash](https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnubash)
+![powershell](https://img.shields.io/badge/Code-PowerShell-E74536?logo=powers)
+![groovey](https://img.shields.io/badge/Code-Groovy-4298B8?logo=apachegroovy)
+
+### I can write Code
+
+![Python](https://img.shields.io/badge/Code-python-3776AB?logo=python)
+![C#](https://img.shields.io/badge/Code-C#-512BD4?logo=dotnet)
 
 ### Skills
 
