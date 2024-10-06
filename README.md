@@ -17,7 +17,7 @@ I began my career as a Software Engineer in 2010 and have accumulated 15 years o
 ![JSON](https://img.shields.io/badge/code-json-000000?logo=json)
 ![XML](https://img.shields.io/badge/code-xml-005FAD?logo=xml)
 
-### I am writing automation scripts
+### scripting...
 
 ![Python](https://img.shields.io/badge/Code-python-3776AB?logo=python)
 ![bash](https://img.shields.io/badge/Code-Bash-4EAA25?logo=gnubash)
