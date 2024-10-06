@@ -13,9 +13,9 @@ I began my career as a Software Engineer in 2010 and have accumulated 15 years o
 ![C#](https://img.shields.io/badge/Code-CSharp-512BD4?logo=dotnet)
 ![SQL](https://img.shields.io/badge/Queries-SQL-4169E1?logo=postgresql)
 ![HTML](https://img.shields.io/badge/code-HTML-3366CClogo=htmx)
-![YAML](https://img.shields.io/badge/code-HTML-CB171Elogo=yaml)
-![JSON](https://img.shields.io/badge/code-HTML-000000logo=json)
-![XML](https://img.shields.io/badge/code-HTML-005FADlogo=xml)
+![YAML](https://img.shields.io/badge/code-yaml-CB171Elogo=yaml)
+![JSON](https://img.shields.io/badge/code-json-000000logo=json)
+![XML](https://img.shields.io/badge/code-xml-005FADlogo=xml)
 
 ### I am writing automation scripts
 
